@@ -1,0 +1,12 @@
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\bin\Debug\net6.0\BTA.Shared.deps.json
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\bin\Debug\net6.0\BTA.Shared.dll
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\bin\Debug\net6.0\BTA.Shared.pdb
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\BTA.Shared.csproj.AssemblyReference.cache
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\BTA.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\BTA.Shared.AssemblyInfoInputs.cache
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\BTA.Shared.AssemblyInfo.cs
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\BTA.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\BTA.Shared.dll
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\refint\BTA.Shared.dll
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\BTA.Shared.pdb
+C:\Users\Landry Barb II\Documents\WebDevelopment\Blazor\PortfolioProjects\FullStack\BTA\BTA\Shared\obj\Debug\net6.0\ref\BTA.Shared.dll
